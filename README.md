@@ -1,7 +1,7 @@
 # Comprehensive Data Analysis using SQL
 # Apple - A leading tech company known for innovative electronics like iPhone, Mac, and iOS.
 
-![AMAZON](https://github.com/Akshay-Vallam/Data-Analysis-Apple/blob/main/apple_image.jpg)
+![AMAZON](https://github.com/Akshay-Vallam/Data-Analysis-Apple/blob/main/apple_image.png)
 *Image Credit: apple.com*
 
 ## Overview
