@@ -180,7 +180,7 @@ SELECT * FROM warranty;
 ### 1. Country-Wise Stores
 
 #### Question: 
-#### QFind the number of stores in each country.
+#### Find the number of stores in each country.
 	
 #### Solution:
 ```sql
