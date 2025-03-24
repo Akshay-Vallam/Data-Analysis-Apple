@@ -24,8 +24,9 @@ This project has helped me develop the following skills:
 
 ## Datasets
 
-- **Period Covered**: The data spans across multiple years, allowing for long-term trend analysis.
-- **Geographical Coverage**: Data from various countries around the world.
+ - **Data Covered**: This project includes 5 dataset tables and more than 1 Million records.
+ - **Period Covered**: The data spans across multiple years, allowing for long-term trend analysis.
+ - **Geographical Coverage**: Data from various countries around the world.
 
 ## Project Structure
 
